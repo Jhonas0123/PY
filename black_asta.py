@@ -10,8 +10,7 @@ def gasto(estamina, rondas):
 
 gasto_total = gasto(14,50)
 
-print(f"total de estamina gastada es {gasto_total} y
-el monto restado menos la estamina gastada es {total - gasto_total}")
+print(f"total de estamina gastada es {gasto_total} y el monto restado menos la estamina gastada es {total - gasto_total}")
     
     
     
