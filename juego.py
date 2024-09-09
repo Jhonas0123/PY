@@ -8,8 +8,8 @@ import pygame
 # si aun corrigiendo esos errores sigue sin dar, ir a 
 # View -> Comannd Palette -> select interpreter -> interatar uno que este ahi
 
-ANCHO = 1000
-ALTO = 800
+ANCHO = 500
+ALTO = 400
 VENTANA = pygame.display.set_mode([ANCHO,ALTO])
 
 jugando = True
