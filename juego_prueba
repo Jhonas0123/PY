@@ -4,7 +4,7 @@ pygame.init()
 
 DISPLAYSURF = pygame.display.set_mode((400, 300))
 
-pygame.display.set_caption("HELLOS WOLRD")
+pygame.display.set_caption("Juego")
 
 while True: #main game loop
     for event in pygame.event.get():
