@@ -9,13 +9,13 @@ from personaje import Cubo
 # si aun corrigiendo esos errores sigue sin dar, ir a 
 # View -> Comannd Palette -> select interpreter -> interatar uno que este ahi
 
-ANCHO = 500
-ALTO = 400
+ANCHO = 900
+ALTO = 500
 VENTANA = pygame.display.set_mode([ANCHO,ALTO])
 
 jugando = True
 
-cubo = Cubo(50,50)
+cubo = Cubo(50, 50)
 
 while jugando:
     eventos = pygame.event.get()

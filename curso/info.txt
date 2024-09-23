@@ -1,0 +1,23 @@
+# Introduccion a python 
+python es un lenguaje de alto nivel, interpretado y de proposito generl.
+
+Fue creado por Guido Van Rossum y lanzado por priemra vez en 1991.
+
+Python se destaca por su sintaxis clara y legible, ademas de ser potente y versatil
+
+Se puede desarrollar todo tipo de aplicaciones con Python, por ejemplo
+
+Aplicaciones web, aplicaciones de escritorio, inteligencia artificial,
+analisis de datos, etc.
+
+# Caracteristicas 
+
+Legilibidad : python usa una sintaxis limpia y facil de entender
+
+Multiparadigma: Python soporta la programacion imperativa (secuencail), 
+orientada a objetos y funcional
+
+Python es un lenguaje interpretado, por lo que el codigo se ejecuta linea a linea 
+
+Gran comunidad de python cuenca con una comunidad activa y en crecimiento
+
