@@ -1,6 +1,6 @@
 # cosas fundamentales de git
-# git add   -   añade todo o añade solo un proyecto segun el nombre
-# git commit    -   le coloca nombre al programa que se desarrollo 
-# git push  -   sube a git el proyecto con el nombre que se guardo
+# git add   -   añade todo o añade solo un proyecto segun el nombre (git . add)
+# git commit    -   le coloca nombre al programa que se desarrollo (git commit -m)
+# git push  -   sube a git el proyecto con el nombre que se guardo (git push)
 # git pull  -   baja la carmeta de el programa hasta donde  se encuenta actualmente
 
