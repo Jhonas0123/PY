@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>imagenes/abecedario.png</file>
+  </qresource>
+</RCC>

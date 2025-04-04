@@ -1,0 +1,2 @@
+- Para correr el programa se debe instalar las librerias que se encuentran en el archivo txt en un entorno virtual de python.Por lo tanto cree un entorno virtual, ya sea con venv o virtualenv. El codigo se realizo usando la version 3.10 de Python.
+- Para lanzar el programa mediante Python ir al directorio de la carpeta desde el cmd y colocar: python Traductor_LSB.py

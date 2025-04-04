@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>imagenes/manos.png</file>
+  </qresource>
+</RCC>
