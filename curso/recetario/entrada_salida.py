@@ -11,15 +11,15 @@ print(todo)
 
 # imprime solo la primera linea del archivo
 una_linea = mi_archivo.readline()
-print(una_linea)
+# print(una_linea)
 
 # imprime sin el salto que realiza al imprimir
 una_linea = (mi_archivo.rstrip())
-print(una_linea)
+# print(una_linea)
 
 # imprime la linea pero en mayusculas
 una_linea = (mi_archivo.upper())
-print(una_linea)
+# print(una_linea)
 
 # con un for
 
